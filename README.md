@@ -1,8 +1,7 @@
 amesaine
 =====
 
-- my dream is to never use a mouse again
-- i like devtools engineering
+my dream is to never use a mouse again
 
 Favorite Languages
 ------------------
